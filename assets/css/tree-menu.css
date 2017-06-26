@@ -1,0 +1,19 @@
+label > a {
+    color: #333;
+    cursor: pointer;
+}
+
+li > a {
+    cursor: pointer;
+}
+
+.nav-list {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 0;
+}
+
+.nav > li {
+    width: 140px;
+}
+

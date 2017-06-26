@@ -1,0 +1,21 @@
+{
+    "name": "sitronik/yii2-tree-menu",
+    "description": "Tree menu for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "sitronik",
+            "email": "sitronik92@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "sitronik\\treemenu\\": ""
+        }
+    }
+}
