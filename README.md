@@ -49,10 +49,10 @@ Configure the module named `treemenu` in the modules section of your Yii configu
 
 ### Step 3: Using Tree Widget
 
-In your view files, you can now use the tree view directly to manage tree data as shown below:
+In your view files, you can now use the tree widget directly to manage tree data as shown below:
 
 ```php
-echo sitronik\treemenu\TreeTree::widget();
+echo sitronik\treemenu\Tree::widget();
 ```
 
 ### Step 4: Manage Tree Widget
